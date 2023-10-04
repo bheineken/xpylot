@@ -12,4 +12,4 @@ def main():
 if __name__ == "__main__":
     main()
 else:
-    print("Please run xpylot.py file")
+    print("Please run xpylot.py file.")
